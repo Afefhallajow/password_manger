@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a852283-3c6f-4ec9-8131-687a980240ac" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21V4qmM4fmZxQHzdmD2jLG7rjZg" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mysql-connector.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Downloads\Compressed\soket\src\PassManger" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PassManger" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="andriod.util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="Digital_Signature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PassManger.Digital_Signature" />
+      <module name="soket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PassManger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PassManger.client" />
+      <module name="soket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PassManger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multithread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PassManger.multithread" />
+      <module name="soket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PassManger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multithread_for_ca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PassManger.multithread_for_ca" />
+      <module name="soket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PassManger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PassManger.test" />
+      <module name="soket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PassManger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.client" />
+        <item itemvalue="Application.multithread" />
+        <item itemvalue="Application.multithread_for_ca" />
+        <item itemvalue="Application.Digital_Signature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a852283-3c6f-4ec9-8131-687a980240ac" name="Default Changelist" comment="" />
+      <created>1638013114094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638013114094</updated>
+      <workItem from="1638013124735" duration="3229000" />
+      <workItem from="1638017069092" duration="409000" />
+      <workItem from="1638025638876" duration="5517000" />
+      <workItem from="1638180127913" duration="2463000" />
+      <workItem from="1638293227335" duration="9129000" />
+      <workItem from="1638304909233" duration="4116000" />
+      <workItem from="1638393097355" duration="2241000" />
+      <workItem from="1638435998142" duration="4657000" />
+      <workItem from="1638446445301" duration="4798000" />
+      <workItem from="1638462253128" duration="2736000" />
+      <workItem from="1638521618212" duration="8963000" />
+      <workItem from="1638533940231" duration="1534000" />
+      <workItem from="1638650976244" duration="100000" />
+      <workItem from="1638731876019" duration="1584000" />
+      <workItem from="1638816211772" duration="693000" />
+      <workItem from="1638863782620" duration="877000" />
+      <workItem from="1638968426215" duration="7050000" />
+      <workItem from="1638977871073" duration="2609000" />
+      <workItem from="1638989269802" duration="6206000" />
+      <workItem from="1639054980471" duration="4116000" />
+      <workItem from="1639061136101" duration="1129000" />
+      <workItem from="1639135702695" duration="7619000" />
+      <workItem from="1639148561840" duration="8109000" />
+      <workItem from="1639317321629" duration="6189000" />
+      <workItem from="1639335498794" duration="891000" />
+      <workItem from="1639394483703" duration="6696000" />
+      <workItem from="1639568848220" duration="2239000" />
+      <workItem from="1639576479951" duration="835000" />
+      <workItem from="1639743625210" duration="186000" />
+      <workItem from="1639848560109" duration="3525000" />
+      <workItem from="1639912465810" duration="8554000" />
+      <workItem from="1639937134108" duration="6387000" />
+      <workItem from="1639998486635" duration="18727000" />
+      <workItem from="1640085948979" duration="509000" />
+      <workItem from="1640105633759" duration="10319000" />
+      <workItem from="1640601380844" duration="458000" />
+      <workItem from="1640622771639" duration="1680000" />
+      <workItem from="1640624537160" duration="670000" />
+      <workItem from="1640710406560" duration="4981000" />
+      <workItem from="1640715513834" duration="32000" />
+      <workItem from="1640715776460" duration="878000" />
+      <workItem from="1640745320878" duration="8528000" />
+      <workItem from="1640756775086" duration="15000" />
+      <workItem from="1640762484529" duration="307000" />
+      <workItem from="1640766584024" duration="3504000" />
+      <workItem from="1641124328958" duration="92000" />
+      <workItem from="1642871465410" duration="428000" />
+      <workItem from="1646393744738" duration="126000" />
+      <workItem from="1647075844687" duration="485000" />
+      <workItem from="1647076975318" duration="610000" />
+      <workItem from="1648062274821" duration="73000" />
+      <workItem from="1648132793354" duration="153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
